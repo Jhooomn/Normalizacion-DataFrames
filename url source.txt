@@ -1,0 +1,9 @@
+1. Scikit-Learn:
+- https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.normalize.html
+
+2. Stack OverFlow:
+- https://stackoverflow.com/questions/26414913/normalize-columns-of-pandas-data-frame/48651066
+- https://stackoverflow.com/questions/45554008/error-in-python-script-expected-2d-array-got-1d-array-instead
+
+3. Youtube:
+- https://www.youtube.com/watch?v=H5-Gwg1UVtY (cctmexico)
